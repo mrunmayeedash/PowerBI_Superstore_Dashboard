@@ -14,9 +14,11 @@ This project contains an interactive Power BI dashboard built using Global Super
 - Power BI Desktop
 - DAX
 - GitHub
+- Excel
 
 ## File
 - Global_Superstore_Dashboard.pbix
+  global_superstore_2016.csv
 
 #### Dashboard
 ![screenshot](sales_performance.JPG)
