@@ -17,3 +17,6 @@ This project contains an interactive Power BI dashboard built using Global Super
 
 ## File
 - Global_Superstore_Dashboard.pbix
+
+#### Dashboard
+![screenshot](sales_performance.JPG)
